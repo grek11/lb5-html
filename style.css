@@ -1,0 +1,74 @@
+header { background-color: rgb(91, 97, 105); }
+
+.custom-bg-light { background-color: #dedcdc; }
+
+.no-border { border: none !important; }
+
+.fulljustify { text-align: justify; }
+
+.fulljustify:after {
+  content: "";
+  width: 100%;
+}
+
+.text-left {
+  text-align: left;
+  padding: 10px; 
+}
+
+.c-gray { color:#828181; }
+
+.c-gray-title { color: #4e5257; }
+
+.mt-mnoga { margin-top: 75px; }
+
+.c-blue { color: #2a6fbd; }
+
+.bg-blue { background-color: #2a6fbd; }
+
+.main-slider { background-image: url(./img/background1.png); }
+
+.our-services-text {
+  width: 100%; 
+  border-bottom: 1px solid #807a7a; 
+  line-height: 0.1em;
+  margin: 10px 0 20px; 
+} 
+ 
+ .our-services-text span { padding:0 10px; }
+
+ .text-gradient {
+  background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(175, 175, 175)) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+ .txabut {
+  position: absolute;
+  bottom: 1px;
+  right: 2px;
+  height: 30px;
+  width: 50px;
+  width: 100px;
+  background-color: #2a6fbd;
+  color: rgb(255, 255, 255);
+}
+
+ input, textarea {
+  border-radius: 0px !important;
+  background-color: #f5f5f5 !important;
+} 
+
+ .net-borderaradiusa-netuuuu { border-radius: 0px !important; }
+
+ .positionmagition {
+  position: absolute !important;
+  bottom: -252px !important;
+  right: -350px !important;
+}
+
+ .positionmagition button {
+  width: 20px !important;
+  height: 20px !important;
+  border-radius: 50% !important;
+}
